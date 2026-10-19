@@ -1,0 +1,8 @@
+,Manager support,Recognition,Workload,Growth,Autonomy,Team belonging,Engagement
+Manager support,1.0,0.311,0.222,0.396,0.431,0.292,0.642
+Recognition,0.311,1.0,0.227,0.314,0.227,0.386,0.383
+Workload,0.222,0.227,1.0,0.209,0.248,0.388,0.428
+Growth,0.396,0.314,0.209,1.0,0.385,0.3,0.548
+Autonomy,0.431,0.227,0.248,0.385,1.0,0.429,0.459
+Team belonging,0.292,0.386,0.388,0.3,0.429,1.0,0.473
+Engagement,0.642,0.383,0.428,0.548,0.459,0.473,1.0
